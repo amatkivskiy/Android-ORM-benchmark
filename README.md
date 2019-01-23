@@ -80,7 +80,7 @@ For each test cache/lazy initialization were turned off, and we perform an avera
 ## Summary
 ##### ORMLite
 It does not save much from the boilerplate code, however one of the fastest libraries out there is built-in caching and delayed initialization, good documentation.
-Despite all the advantages, I would not use it, because The main reason for using ORM is getting rid of writing repetitive code, and, therefore, speeding up development, which in other libraries is realized, in my opinion, better.
+Despite all the advantages, I would not use it, because The main reason for using ORM is getting rid of writing repetitive code, and, therefore, speeding up development, which is, in my opinion, better implemented in other libraries.
 ##### SugarORM
 Of the advantages can be noted ease of use, which is not enough in ORMLite, and that's it.
 Has a separate drawback associated with the approach to implementation - it is not "friendly" with Instant Run, so when working with it you have to disable it.
